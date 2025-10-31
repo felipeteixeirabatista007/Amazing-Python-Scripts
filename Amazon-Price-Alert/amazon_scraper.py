@@ -1,4 +1,4 @@
-# Developed and maintained by https://github.com/sarthak1905
+# Developed  and maintained by https://github.com/sarthak1905
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 import os
